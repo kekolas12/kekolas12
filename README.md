@@ -2,10 +2,10 @@ Selam ben Mertcan ben öyle fivem ve unity kodları yazıyorum. Fivem de yazılm
 Unity de ise shader veya UI üzerinde kodlamalar paylaşıyordum. Tabi bunların hepsini DC adresimizde yapıyordum. Artık burada paylaşacağım
 
 Profesyönel olmasamda bildiğim diller
-c#
-java
-html
-lua
+c#,
+css,
+html,
+lua,
 
 Yazılımların hepsini twitch.tv/metoffen kanalında yapıyoruz. Açık kodlama yapıyorum ki herkes faydalansın. Ki zaten yzılmış kodları yazdığımızdan parayla satmak suç (Sakın ev de denemeyin!)
 
