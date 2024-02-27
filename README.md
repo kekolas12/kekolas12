@@ -12,6 +12,5 @@ Yazılımların hepsini twitch.tv/metoffen kanalında yapıyoruz. Açık kodlama
 Fivem kodlarını açık yazmamın tek bir sebebi var. Millet kod öğrensin ve açtıkları fivem sunucuların da özgün işler yapıp kaliteli rol deneyimi sunsunlar.
 Eğer kodlarımda hata veya eklemek istediğiniz bişeyler varsa discord adresimine gelirsiniz.
 
-NOT:Evet biliyorum yazdığımız tabletler veya başka detaylı scriptler zaten yazılmıştı evet vallaha biliyorum. Amacım copy paste değil zaten. Amacım bunların nasıl yazıldığını insanlara göstermek.
 
 Kim bilir belki büyük sunucular da DEV olurum HELL YEAH! 
