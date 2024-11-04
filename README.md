@@ -18,7 +18,7 @@
 - 👯 Katkıda bulunduğum alanlar: **Açık kaynak projeler ve Microservice uygulamaları**
 - 💬 Aktif İlgilendiğim alanlar: **AWS, SQL optimizasyonu, Microservice mimarisi, .NET Core**
 - 📫 Bana ulaş: **mmeto340@gmail.com**
-- ⚡ Gerçek: **KAHVE! Onsuz olmaz...**
+- ⚡ Gerçek: **KAHVEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE**
 
 ---
 
@@ -33,5 +33,14 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge" alt="Microservices" />
+</p>
+
+---
+
+### 📊 GitHub İstatistiklerim:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kekolas12&show_icons=true&theme=radical" alt="kekolas12 GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kekolas12&layout=compact&theme=radical" alt="kekolas12 Top Langs" />
 </p>
