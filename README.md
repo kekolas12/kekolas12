@@ -52,7 +52,7 @@
 
 ### 🌐 Sosyal Medya ve Bağlantılar:
 <p align="left">
-  <a href="[https://www.linkedin.com/in/kekolas12](https://www.linkedin.com/in/mertcan-topdemir-575235295/)" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/mertcan-topdemir-575235295/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://medium.com/@kekolas12" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 </p>
 
