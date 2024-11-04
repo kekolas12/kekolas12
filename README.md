@@ -12,8 +12,11 @@
 - 🌱 Şu anda öğreniyorum: **AWS, Veri Yapıları, Go, Kubernetes ve Bulut Tabanlı Çözümler**
 - 👯 Katkıda bulunduğum alanlar: **Açık kaynak projeler ve Microservice uygulamaları**
 - 💬 Aktif İlgilendiğim alanlar: **AWS, SQL optimizasyonu, Microservice mimarisi, .NET Core**
-- 📫 Bana ulaş: ** E-posta:mmeto340@gmail.com || discord : mertcan99_ || linkedin: https://www.linkedin.com/in/mertcan-topdemir-575235295/ **
-- ⚡ Gerçek: **KAHVEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE**
+- 📫 Bana ulaş:
+  - **E-posta**: mmeto340@gmail.com
+  - **Discord**: mertcan99_
+  - **LinkedIn**: [Mertcan Topdemir](https://www.linkedin.com/in/mertcan-topdemir-575235295/)
+- ⚡ Gerçek: **Kahvesiz kod yazmak neredeyse imkansız!**
 
 ---
 
