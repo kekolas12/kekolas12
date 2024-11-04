@@ -14,11 +14,11 @@
 ---
 
 - 🔭 Şu an üzerinde çalıştığım proje: **XEN**
-- 🌱 Şu anda öğreniyorum: **Go, Kubernetes, ve Bulut Tabanlı Çözümler**
-- 👯 İşbirliği yapmak istiyorum: **Açık kaynak projeler ve Microservice uygulamaları**
-- 💬 Bana sor: **SQL optimizasyonu, Microservice tasarımı, .NET Core hakkında**
-- 📫 Bana ulaş: **mmeto340@gmail.com** *(Gerçek e-posta adresinizi ekleyin)*
-- ⚡ Eğlenceli gerçek: **Kahve olmadan kod yazamıyorum!**
+- 🌱 Şu anda öğreniyorum: **AWS, Tree, Go, Kubernetes, ve Bulut Tabanlı Çözümler**
+- 👯 Yazdıklarım: **Açık kaynak projeler ve Microservice uygulamaları**
+- 💬 Aktif Uğraştığım Alan: ** AWS ,SQL optimizasyonu, Microservice tasarımı, .NET Core **
+- 📫 Bana ulaş: **mmeto340@gmail.com** 
+- ⚡ Gerçek: **Kahve , Kahve, Kahve, Kahve, Kahve, Kahve ......**
 
 ---
 
