@@ -18,7 +18,7 @@
 - 👯 Katkıda bulunduğum alanlar: **Açık kaynak projeler ve Microservice uygulamaları**
 - 💬 Aktif İlgilendiğim alanlar: **AWS, SQL optimizasyonu, Microservice mimarisi, .NET Core**
 - 📫 Bana ulaş: **mmeto340@gmail.com**
-- ⚡ Eğlenceli gerçek: **Günün her anında kahve benim vazgeçilmezimdir!**
+- ⚡ Gerçek: **KAHVEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE**
 
 ---
 
