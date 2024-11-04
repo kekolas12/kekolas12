@@ -17,7 +17,7 @@
 - 🌱 Şu anda öğreniyorum: **Go, Kubernetes, ve Bulut Tabanlı Çözümler**
 - 👯 İşbirliği yapmak istiyorum: **Açık kaynak projeler ve Microservice uygulamaları**
 - 💬 Bana sor: **SQL optimizasyonu, Microservice tasarımı, .NET Core hakkında**
-- 📫 Bana ulaş: **mertcanornek@example.com** *(Gerçek e-posta adresinizi ekleyin)*
+- 📫 Bana ulaş: **mmeto340@gmail.com** *(Gerçek e-posta adresinizi ekleyin)*
 - ⚡ Eğlenceli gerçek: **Kahve olmadan kod yazamıyorum!**
 
 ---
