@@ -18,7 +18,7 @@
 - 👯 Yazdıklarım: **Açık kaynak projeler ve Microservice uygulamaları**
 - 💬 Aktif Uğraştığım Alan: ** AWS ,SQL optimizasyonu, Microservice tasarımı, .NET Core **
 - 📫 Bana ulaş: **mmeto340@gmail.com** 
-- ⚡ Gerçek: **Kahve , Kahve, Kahve, Kahve, Kahve, Kahve ......**
+- ⚡ Gerçek: **Kahve , Kahve, Kahve, KAHVE, KAHVE, KAHVE!!!!! ......**
 
 ---
 
