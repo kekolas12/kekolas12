@@ -5,11 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=kekolas12&label=Profil%20Görüntüleme&color=0e75b6&style=flat" alt="kekolas12" />
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
-  </a>
-</p>
 
 ---
 
