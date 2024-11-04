@@ -16,7 +16,7 @@
 - 🔭 Şu an üzerinde çalıştığım proje: **XEN**
 - 🌱 Şu anda öğreniyorum: **AWS, Veri Yapıları, Go, Kubernetes ve Bulut Tabanlı Çözümler**
 - 👯 Katkıda bulunduğum alanlar: **Açık kaynak projeler ve Microservice uygulamaları**
-- 💬 Uzmanlık alanlarım: **AWS, SQL optimizasyonu, Microservice mimarisi, .NET Core**
+- 💬 Aktif İlgilendiğim alanlar: **AWS, SQL optimizasyonu, Microservice mimarisi, .NET Core**
 - 📫 Bana ulaş: **mmeto340@gmail.com**
 - ⚡ Eğlenceli gerçek: **Günün her anında kahve benim vazgeçilmezimdir!**
 
