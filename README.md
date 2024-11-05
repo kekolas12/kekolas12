@@ -39,7 +39,7 @@
 
 ### 📊 Leetcode İstatistiklerim:
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/mmeto340?ext=activity" alt="LeetCode Stats">
+  <img src="https://leetcard.jacoblin.cool/mmeto340?ext=activity&font=patrick_hand" alt="LeetCode Stats">
 </p>
 
 ---
