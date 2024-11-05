@@ -37,6 +37,12 @@
 
 ---
 
+### 📊 Leetcode İstatistiklerim:
+<p align="center">
+  ![](https://leetcard.jacoblin.cool/mmeto340?ext=heatmap)
+</p>
+
+---
 ### 📊 GitHub İstatistiklerim:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kekolas12&show_icons=true&theme=radical" alt="kekolas12 GitHub stats" />
