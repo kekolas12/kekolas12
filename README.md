@@ -39,7 +39,7 @@
 
 ### 📊 Leetcode İstatistiklerim:
 <p align="center">
-  ![](https://leetcard.jacoblin.cool/mmeto340?ext=heatmap)
+  ![](https://leetcard.jacoblin.cool/mmeto340?ext=activity)
 </p>
 
 ---
