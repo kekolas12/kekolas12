@@ -39,6 +39,7 @@
 
 ### 📊 Leetcode İstatistiklerim:
 <p align="center">
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?ext=activity)
   ![Leetcode Stats](https://leetcard.jacoblin.cool/mmeto340?ext=activity)
 </p>
 
