@@ -16,7 +16,7 @@
   - **E-posta**: mmeto340@gmail.com
   - **Discord**: mertcan99_
   - **LinkedIn**: [Mertcan Topdemir](https://www.linkedin.com/in/mertcan-topdemir-575235295/)
-- ⚡ Gerçek: **Kahvesiz kod yazmak neredeyse imkansız!**
+- ⚡ Ufak Bilgi: **KAHVE KAHVEE KAHVEEEEEE**
 
 ---
 
