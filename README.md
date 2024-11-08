@@ -50,4 +50,4 @@
 </p>
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kekolas12)](https://github.com/kekolas12/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kekolas12&theme=onedark)](https://github.com/kekolas12/github-profile-trophy)
