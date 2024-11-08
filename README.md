@@ -48,3 +48,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kekolas12&show_icons=true&theme=radical" alt="kekolas12 GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kekolas12&layout=compact&theme=radical" alt="kekolas12 Top Langs" />
 </p>
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kekolas12)](https://github.com/kekolas12/github-profile-trophy)
