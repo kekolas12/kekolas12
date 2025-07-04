@@ -15,7 +15,6 @@
 - 📫 Bana ulaş:
   - **E-posta**: mmeto340@gmail.com
   - **Discord**: mertcan99_
-  - **LinkedIn**: [Mertcan Topdemir](https://www.linkedin.com/in/mertcan-topdemir-575235295/)
 - ⚡ Ufak Bilgi: **KAHVE KAHVEE KAHVEEEEEE**
 
 ---
