@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:e3a053,100:000000&height=230&section=header&text=Welcome%20to%20My%20World&fontSize=38&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:e3a053,100:000000&height=230&section=header&text=Welcome%20to%20My%20Profile&fontSize=38&fontColor=ffffff)
 
 </div>
 
