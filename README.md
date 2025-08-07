@@ -79,6 +79,6 @@ I’m passionate about solving real-world problems through elegant and efficient
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:e3a053&height=150&section=footer&text=Happy%20Coding!&fontSize=24&fontColor=ffffff)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:e3a053&height=150&section=footer&fontSize=24&fontColor=ffffff)
 
 </div>
