@@ -34,7 +34,7 @@ I’m passionate about solving real-world problems through elegant and efficient
 ## 🛠️ My Toolbox
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,go,ts,dotnet,docker,kubernetes&theme=dark" height="50" />
+  <img src="https://skillicons.dev/icons?i=java,cs,go,ts,cp,cpp,dotnet,docker,kubernetes&theme=dark" height="50" />
   <img src="https://skillicons.dev/icons?i=aws,azure,linux,github,git,postgres,mongodb&theme=dark" height="50" />
 </div>
 
