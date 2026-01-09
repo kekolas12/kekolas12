@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e3a053,100:000000&height=220&section=header&text=Hi,%20I'm%20Mertcan&fontSize=38&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e3a053,100:000000&height=230&section=header&text=Hi,%20I'm%20Mertcan&fontSize=38&fontColor=ffffff"/>
 
-<p style="color:#e3a053;font-size:18px;">
-Software Developer & Cloud Enthusiast
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1200&color=E3A053&center=true&vCenter=true&width=520&lines=Software+Developer+%26+Cloud+Enthusiast;Backend+%7C+Distributed+Systems;Cloud-Native+Architecture"/>
 
-<p style="color:#cccccc;max-width:640px;">
-Building resilient distributed systems and crafting elegant cloud-native solutions.
-</p>
+<br/>
 
 <a href="https://github.com/kekolas12">
 <img src="https://img.shields.io/badge/View_My_Work-e3a053?style=for-the-badge&logo=github&logoColor=black"/>
@@ -18,90 +14,77 @@ Building resilient distributed systems and crafting elegant cloud-native solutio
 
 ---
 
-## About Me
+## ABOUT ME
 
-<div style="background-color:#000000;padding:22px;border-radius:16px;color:#ffffff;max-width:900px;margin:auto;">
+> Building resilient distributed systems and crafting elegant cloud-native solutions.
 
-I am a software developer who thrives at the intersection of robust backend architectures and scalable cloud infrastructure.  
-My focus is on creating high-performance applications that are reliable, efficient, and maintainable.
+I work at the intersection of **backend engineering** and **cloud infrastructure**, focusing on  
+scalable architectures, performance, and long-term maintainability.
 
-<br/><br/>
-
-<strong style="color:#e3a053;">Key Expertise</strong>
-
-<div style="margin-top:12px;">
-<img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=e3a053"/>
-<img src="https://img.shields.io/badge/Cloud_Architecture-000000?style=for-the-badge&logo=amazonaws&logoColor=e3a053"/>
-<img src="https://img.shields.io/badge/Go_&_Java_Backend-000000?style=for-the-badge&logo=go&logoColor=e3a053"/>
-</div>
-
-</div>
+**Core focus areas**
+- Backend & Distributed Systems  
+- Cloud-Native Architecture  
+- Kubernetes & Infrastructure Automation  
 
 ---
 
-## Tech Stack
+## TECH STACK
 
-<div align="center" style="background-color:#000000;padding:22px;border-radius:16px;max-width:900px;margin:auto;">
+### CORE BACKEND
+<img src="https://skillicons.dev/icons?i=java,cs,go,python&theme=dark"/>
 
-### Core Backend
-<img src="https://skillicons.dev/icons?i=java,cs,go,python&theme=dark" height="46"/>
+### CLOUD & INFRASTRUCTURE
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,linux&theme=dark"/>
 
-<br/><br/>
-
-### Cloud & Infrastructure
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,linux&theme=dark" height="46"/>
-
-<br/><br/>
-
-### Other Technologies
-<img src="https://skillicons.dev/icons?i=postgres,redis,kafka,typescript,react&theme=dark" height="46"/>
-
-</div>
+### DATA & OTHER
+<img src="https://skillicons.dev/icons?i=postgres,redis,kafka,typescript&theme=dark"/>
 
 ---
 
-## Projects
+## FEATURED PROJECTS
 
-<div style="background-color:#000000;padding:22px;border-radius:16px;max-width:900px;margin:auto;color:#ffffff;">
+**Distributed Cache-QoS**  
+High-performance distributed caching system with consistency guarantees and observability.
 
-<strong style="color:#e3a053;">Distributed Cache-QoS</strong><br/>
-High-performance distributed caching system with consistency guarantees and monitoring.
+**Kube-Ops Framework**  
+Operational toolkit for Kubernetes cluster management and workload automation.
 
-<br/><br/>
-
-<strong style="color:#e3a053;">Kube-Ops Framework</strong><br/>
-Operational toolkit for managing Kubernetes clusters, workloads, and scaling strategies.
-
-<br/><br/>
-
-<strong style="color:#e3a053;">AI Prompt Chain</strong><br/>
-Structured prompt engineering framework for building modular LLM workflows.
-
-<br/><br/>
+**AI Prompt Chain**  
+Modular prompt-engineering framework for structured LLM workflows.
 
 <a href="https://github.com/kekolas12">
-<img src="https://img.shields.io/badge/View_on_GitHub-e3a053?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/View_All_Projects-e3a053?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
-</div>
-
 ---
 
-## Metrics & Growth
-
-<div align="center" style="background-color:#000000;padding:22px;border-radius:16px;max-width:900px;margin:auto;">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kekolas12&show_icons=true&hide_border=true&bg_color=000000&title_color=e3a053&text_color=ffffff&icon_color=e3a053" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kekolas12&hide_border=true&background=000000&stroke=e3a053&ring=e3a053&fire=e3a053&currStreakLabel=ffffff" width="48%"/>
-
-</div>
-
----
-
-## Let’s Connect
+## GITHUB METRICS
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kekolas12&show_icons=true&hide_border=true&bg_color=000000&title_color=e3a053&text_color=ffffff&icon_color=e3a053"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kekolas12&theme=github-dark&hide_border=true"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kekolas12&layout=compact&hide_border=true&bg_color=000000&title_color=e3a053&text_color=ffffff"/>
+
+</div>
+
+---
+
+## LEETCODE
+
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/mmeto340?theme=dark&font=Karma&ext=heatmap"/>
+</div>
+
+---
+
+## CONTACT
 
 <a href="mailto:mmeto340@gmail.com">
 <img src="https://img.shields.io/badge/Email-e3a053?style=for-the-badge&logo=gmail&logoColor=black"/>
@@ -114,8 +97,6 @@ Structured prompt engineering framework for building modular LLM workflows.
 <a href="https://github.com/kekolas12">
 <img src="https://img.shields.io/badge/GitHub-e3a053?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
-
-</div>
 
 ---
 
