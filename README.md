@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e3a053,100:000000&height=230&section=header&text=Hi,%20I'm%20Mertcan&fontSize=38&fontColor=ffffff"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1200&color=E3A053&center=true&vCenter=true&width=520&lines=Software+Developer+%26+Cloud+Enthusiast;Backend+%7C+Distributed+Systems;Cloud-Native+Architecture"/>
-
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1200&color=E3A053&center=true&vCenter=true&width=520&lines=Software+Developer+%26+Cloud+Enthusiast;Backend+%7C+Frontend+%7C+Cloud;Distributed+Systems+Engineering"/>
 
 <a href="https://github.com/kekolas12">
 <img src="https://img.shields.io/badge/View_My_Work-e3a053?style=for-the-badge&logo=github&logoColor=black"/>
@@ -16,41 +14,37 @@
 
 ## ABOUT ME
 
-> Building resilient distributed systems and crafting elegant cloud-native solutions.
-
-I work at the intersection of **backend engineering** and **cloud infrastructure**, focusing on  
-scalable architectures, performance, and long-term maintainability.
-
-**Core focus areas**
-- Backend & Distributed Systems  
-- Cloud-Native Architecture  
-- Kubernetes & Infrastructure Automation  
+Building resilient distributed systems and crafting elegant cloud-native solutions.  
+I focus on **backend-heavy architectures**, **scalable cloud systems**, and **clean, maintainable codebases**.
 
 ---
 
 ## TECH STACK
 
-### CORE BACKEND
-<img src="https://skillicons.dev/icons?i=java,cs,go,python&theme=dark"/>
+### BACKEND
+<img src="https://skillicons.dev/icons?i=java,cs,go,python,php,dotnet&theme=dark"/>
 
-### CLOUD & INFRASTRUCTURE
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,linux&theme=dark"/>
+### FRONTEND
+<img src="https://skillicons.dev/icons?i=react,vue,typescript,html,css&theme=dark"/>
 
-### DATA & OTHER
-<img src="https://skillicons.dev/icons?i=postgres,redis,kafka,typescript&theme=dark"/>
+### DATABASES
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark"/>
+
+### CLOUD & DEVOPS
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,linux,terraform&theme=dark"/>
 
 ---
 
 ## FEATURED PROJECTS
 
 **Distributed Cache-QoS**  
-High-performance distributed caching system with consistency guarantees and observability.
+High-throughput distributed caching system focused on consistency, performance, and observability.
 
 **Kube-Ops Framework**  
-Operational toolkit for Kubernetes cluster management and workload automation.
+Infrastructure automation framework for Kubernetes-based environments.
 
-**AI Prompt Chain**  
-Modular prompt-engineering framework for structured LLM workflows.
+**Full-Stack Web Platform**  
+Backend-heavy web system built with modern frontend frameworks and scalable APIs.
 
 <a href="https://github.com/kekolas12">
 <img src="https://img.shields.io/badge/View_All_Projects-e3a053?style=for-the-badge&logo=github&logoColor=black"/>
@@ -62,15 +56,7 @@ Modular prompt-engineering framework for structured LLM workflows.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kekolas12&show_icons=true&hide_border=true&bg_color=000000&title_color=e3a053&text_color=ffffff&icon_color=e3a053"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kekolas12&theme=github-dark&hide_border=true"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kekolas12&layout=compact&hide_border=true&bg_color=000000&title_color=e3a053&text_color=ffffff"/>
+<img src="https://metrics.lecoq.io/kekolas12?template=classic&languages=1&activity=1&lines=1&followup=1&repositories=1&config.timezone=Europe/Istanbul"/>
 
 </div>
 
