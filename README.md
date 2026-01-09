@@ -92,14 +92,14 @@ I focus on **backend-heavy architectures**, **scalable cloud systems**, and **cl
     <animate attributeName="ry" values="20;25;20" dur="2s" repeatCount="indefinite"/>
   </ellipse>
   <text x="50%" y="35" font-family="Arial" font-size="16" font-weight="bold" fill="#E3A053" text-anchor="middle">
-    ⚡ TECH STACK ⚡
+    TECH STACK
     <animate attributeName="opacity" values="0.7;1;0.7" dur="1.5s" repeatCount="indefinite"/>
   </text>
 </svg>
 
 </div>
 
-### <div align="center">🔧 BACKEND</div>
+### <div align="center">BACKEND</div>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=java,cs,go,python,php,dotnet&theme=dark"/>
@@ -115,7 +115,7 @@ I focus on **backend-heavy architectures**, **scalable cloud systems**, and **cl
   </svg>
 </div>
 
-### <div align="center">🎨 FRONTEND</div>
+### <div align="center">FRONTEND</div>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,vue,typescript,html,css&theme=dark"/>
@@ -131,7 +131,7 @@ I focus on **backend-heavy architectures**, **scalable cloud systems**, and **cl
   </svg>
 </div>
 
-### <div align="center">💾 DATABASES</div>
+### <div align="center">DATABASES</div>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark"/>
@@ -147,7 +147,7 @@ I focus on **backend-heavy architectures**, **scalable cloud systems**, and **cl
   </svg>
 </div>
 
-### <div align="center">☁️ CLOUD & DEVOPS</div>
+### <div align="center">CLOUD & DEVOPS</div>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,linux,terraform&theme=dark"/>
@@ -197,7 +197,7 @@ I focus on **backend-heavy architectures**, **scalable cloud systems**, and **cl
     <animate attributeName="r" values="8;10;8" dur="2s" begin="1s" repeatCount="indefinite"/>
   </circle>
   <text x="50%" y="70" font-family="Arial" font-size="24" font-weight="bold" fill="#E3A053" text-anchor="middle" filter="url(#glow)">
-    🚀 FEATURED PROJECTS 🚀
+    FEATURED PROJECTS
     <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" repeatCount="indefinite"/>
   </text>
 </svg>
@@ -217,7 +217,7 @@ I focus on **backend-heavy architectures**, **scalable cloud systems**, and **cl
   <rect x="5%" y="0" width="90%" height="110" rx="15" fill="url(#cardGrad1)" stroke="#E3A053" stroke-width="2">
     <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
   </rect>
-  <text x="50%" y="30" font-family="Arial" font-size="18" font-weight="bold" fill="#E3A053" text-anchor="middle">💎 Distributed Cache-QoS</text>
+  <text x="50%" y="30" font-family="Arial" font-size="18" font-weight="bold" fill="#E3A053" text-anchor="middle">Distributed Cache-QoS</text>
   <text x="50%" y="55" font-family="Arial" font-size="12" fill="#cccccc" text-anchor="middle">High-throughput distributed caching system</text>
   <text x="50%" y="75" font-family="Arial" font-size="11" fill="#999999" text-anchor="middle">Focused on consistency, performance, and observability</text>
 </svg>
@@ -236,7 +236,7 @@ High-throughput distributed caching system focused on consistency, performance, 
   <rect x="5%" y="0" width="90%" height="110" rx="15" fill="url(#cardGrad2)" stroke="#E3A053" stroke-width="2">
     <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3s" begin="1s" repeatCount="indefinite"/>
   </rect>
-  <text x="50%" y="30" font-family="Arial" font-size="18" font-weight="bold" fill="#E3A053" text-anchor="middle">⚙️ Kube-Ops Framework</text>
+  <text x="50%" y="30" font-family="Arial" font-size="18" font-weight="bold" fill="#E3A053" text-anchor="middle">Kube-Ops Framework</text>
   <text x="50%" y="55" font-family="Arial" font-size="12" fill="#cccccc" text-anchor="middle">Infrastructure automation framework</text>
   <text x="50%" y="75" font-family="Arial" font-size="11" fill="#999999" text-anchor="middle">For Kubernetes-based environments</text>
 </svg>
@@ -255,7 +255,7 @@ Infrastructure automation framework for Kubernetes-based environments.
   <rect x="5%" y="0" width="90%" height="110" rx="15" fill="url(#cardGrad3)" stroke="#E3A053" stroke-width="2">
     <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3s" begin="2s" repeatCount="indefinite"/>
   </rect>
-  <text x="50%" y="30" font-family="Arial" font-size="18" font-weight="bold" fill="#E3A053" text-anchor="middle">🌐 Full-Stack Web Platform</text>
+  <text x="50%" y="30" font-family="Arial" font-size="18" font-weight="bold" fill="#E3A053" text-anchor="middle">Full-Stack Web Platform</text>
   <text x="50%" y="55" font-family="Arial" font-size="12" fill="#cccccc" text-anchor="middle">Backend-heavy web system</text>
   <text x="50%" y="75" font-family="Arial" font-size="11" fill="#999999" text-anchor="middle">Built with modern frontend frameworks and scalable APIs</text>
 </svg>
@@ -288,14 +288,14 @@ Backend-heavy web system built with modern frontend frameworks and scalable APIs
   <path d="M 10 30 Q 50% 20, 90% 30 T 50% 40" stroke="url(#metricsGradient)" stroke-width="3" fill="none">
     <animate attributeName="d" values="M 10 30 Q 50% 20, 90% 30 T 50% 40;M 10 35 Q 50% 25, 90% 35 T 50% 45;M 10 30 Q 50% 20, 90% 30 T 50% 40" dur="3s" repeatCount="indefinite"/>
   </path>
-  <text x="50%" y="50" font-family="Arial" font-size="20" font-weight="bold" fill="#E3A053" text-anchor="middle">📊 GITHUB METRICS</text>
+  <text x="50%" y="50" font-family="Arial" font-size="20" font-weight="bold" fill="#E3A053" text-anchor="middle">GITHUB METRICS</text>
 </svg>
 
 </div>
 
 <div align="center">
 
-<img src="https://metrics.lecoq.io/kekolas12?template=classic&languages=1&activity=1&lines=1&followup=1&repositories=1&config.timezone=Europe/Istanbul"/>
+<img width="100%" src="https://metrics.lecoq.io/kekolas12?template=classic&config.timezone=Europe/Istanbul&languages=1&languages.limit=8&languages.colors=E3A053,FFD700&languages.sections=most-used&languages.indepth=true&activity=1&activity.limit=5&lines=1&lines.repositories.limit=4&isocalendar=1&isocalendar.duration=full-year&habits=1&repositories=1&repositories.limit=4&achievements=1&followup=1&gists=1&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0" alt="GitHub Metrics"/>
 
 </div>
 
@@ -321,7 +321,7 @@ Backend-heavy web system built with modern frontend frameworks and scalable APIs
   <rect x="20%" y="15" width="60%" height="30" rx="15" fill="none" stroke="url(#leetcodeGradient)" stroke-width="2">
     <animate attributeName="stroke-dasharray" values="0,500;250,250;500,0" dur="3s" repeatCount="indefinite"/>
   </rect>
-  <text x="50%" y="35" font-family="Arial" font-size="20" font-weight="bold" fill="#E3A053" text-anchor="middle">💻 LEETCODE</text>
+  <text x="50%" y="35" font-family="Arial" font-size="20" font-weight="bold" fill="#E3A053" text-anchor="middle">LEETCODE</text>
 </svg>
 
 </div>
@@ -349,7 +349,7 @@ Backend-heavy web system built with modern frontend frameworks and scalable APIs
   <circle cx="50%" cy="40" r="30" fill="url(#contactGradient)">
     <animate attributeName="r" values="30;35;30" dur="2.5s" repeatCount="indefinite"/>
   </circle>
-  <text x="50%" y="85" font-family="Arial" font-size="22" font-weight="bold" fill="#E3A053" text-anchor="middle">📬 CONTACT</text>
+  <text x="50%" y="85" font-family="Arial" font-size="22" font-weight="bold" fill="#E3A053" text-anchor="middle">CONTACT</text>
 </svg>
 
 <!-- Animated Contact Icons -->
@@ -435,7 +435,7 @@ Backend-heavy web system built with modern frontend frameworks and scalable APIs
       <animate attributeName="d" values="M 0 25 Q 25% 15, 50% 25 T 100% 25;M 0 25 Q 25% 20, 50% 25 T 100% 25;M 0 25 Q 25% 15, 50% 25 T 100% 25" dur="3s" repeatCount="indefinite"/>
     </path>
     <text x="50%" y="40" font-family="Arial" font-size="10" fill="#E3A053" text-anchor="middle" opacity="0.7">
-      Made with ❤️ and ☕
+      Made with passion and dedication
       <animate attributeName="opacity" values="0.5;0.8;0.5" dur="2s" repeatCount="indefinite"/>
     </text>
   </svg>
